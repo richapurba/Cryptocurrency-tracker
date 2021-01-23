@@ -34,8 +34,8 @@
     width: 100%;
 }
 .price {width: 110px;}
-.volume {width: 155px;}
-.marketcap {width: 230px;}
-.percent {width: 100%;}
+.volume {width: 200px;}
+.marketcap {width: 240px;}
+.percent {width: 80px;}
 .red {color: #f00606;}
 .green {color: #11d811;}
